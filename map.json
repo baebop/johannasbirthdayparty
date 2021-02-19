@@ -199,7 +199,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"pub.mp3"
+                 "value":"pubmusic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
